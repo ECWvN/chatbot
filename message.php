@@ -1,6 +1,6 @@
 <?php
 // maken van connectie naar de database
-$conn = mysqli_connect("localhost", "root", "", "chatbot") or die("Database Error");
+$conn = mysqli_connect("localhost", "root", "", "chatbot") or die("No database connected");
 
 // getting user message through ajax
 $getMesg = mysqli_real_escape_string($conn, $_POST['text']);

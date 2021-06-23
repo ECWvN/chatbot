@@ -13,7 +13,7 @@
         <div class="form">
             <div class="bot-inbox inbox">
                 <div class="msg-header">
-                    <p>Hello, can i help you?</p>
+                    <p>Hello, i am the chatbot type something to get started</p>
                 </div>
             </div>
         </div>
